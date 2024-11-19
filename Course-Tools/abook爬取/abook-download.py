@@ -17,7 +17,7 @@ import requests
 document_type = '答案'
 
 # 需要第几章的（可多选）
-document_chapter = ['上12']
+document_chapter = ['上12','下3']
 
 
 
